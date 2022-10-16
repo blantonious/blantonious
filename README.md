@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @blantonious
+- 👀 I’m interested in Automation Scripting, PHP, Python, Laravel, AlpineJS, Livewire and Tailwindcss
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
